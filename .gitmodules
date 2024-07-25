@@ -1,0 +1,3 @@
+[submodule "VulkanTutorial/VulkanTutorial/Libraries/glm"]
+	path = VulkanTutorial/VulkanTutorial/Libraries/glm
+	url = https://github.com/g-truc/glm.git
